@@ -1,4 +1,4 @@
-#Diccionarios
+#Diccionarios en Python
 miDiccionario={"Alemania":"Berlin","Francia":"Paris","Reino Unido":"Londres","España":"Madrid"}
 print(miDiccionario) #imprime el diccionario
 print(miDiccionario.keys()) #imprime los Keys
