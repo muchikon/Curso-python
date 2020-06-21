@@ -1,8 +1,9 @@
 class Coche():
-	largoChasis=250
-	anchoChasis=100
-	ruedas=4
-	enmarcha=False
+	def __init__(self): #creacion de constructor
+		self.largoChasis=250
+		self.anchoChasis=100
+		self.ruedas=4
+		self.enmarcha=False
 
 	def arrancar(self):
 		self.enmarcha=True
